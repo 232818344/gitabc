@@ -1,0 +1,33 @@
+  START...***£¿£¿£¿£¿
+minoc= 1573,168
+maxLoc= 35,36
+minVal= -0.265952,0.000000
+maxVal= 0.444405,0.000000
+noexist.png=un-match
+minoc= 1480,173
+maxLoc= 192,113
+minVal= -0.311043,0.000000
+maxVal= 0.999999,0.000000
+small1.png=match
+minoc= 1136,45
+maxLoc= 186,356
+minVal= -0.318122,0.000000
+maxVal= 0.999997,0.000000
+small2.png=match
+minoc= 897,small3.png=match
+403
+maxLoc= 189,417
+minVal= -0.306913,0.000000
+maxVal= 1.000000,0.000000
+minoc= 553,709
+maxLoc= 189,451
+minVal= -0.288224,0.000000
+maxVal= 1.000000,0.000000
+small4.png=match
+minoc= 1162,32
+maxLoc= 181,443
+minVal= -0.285736,0.000000
+maxVal= 0.999993,0.000000
+END...3249
+small4_big.png=match
+
