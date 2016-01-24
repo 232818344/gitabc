@@ -31,4 +31,9 @@ maxVal= 0.999993,0.000000
 END...3249
 small4_big.png=match
 USER1 ADD¡¡SOME
+<<<<<<< Updated upstream
 USER1 ADD LINE2
+=======
+
+USER2 ADD LINE1
+>>>>>>> Stashed changes
